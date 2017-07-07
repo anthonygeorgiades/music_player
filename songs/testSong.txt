@@ -1,0 +1,12 @@
+Bella Luna
+Jason Mraz
+9
+0.2 C 4 NATURAL false
+0.4 F 4 NATURAL false
+0.4 F 1 NATURAL false
+0.4 R false
+0.2 E 5 FLAT false
+0.4 C 5 NATURAL true
+0.4 G 4 NATURAL false
+0.2 B 4 FLAT true
+0.4 F 10 NATURAL false

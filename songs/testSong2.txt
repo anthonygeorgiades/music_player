@@ -1,0 +1,5 @@
+Sugar
+Adam Levine
+2
+0.2 C 3 NATURAL false
+0.2 E 4 NATURAL true
